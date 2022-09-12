@@ -1,0 +1,47 @@
+.navbar {
+
+    display: flex;
+    color: #474747;
+    justify-content: center;
+    align-items:center;
+    text-decoration: underline;
+    padding: 2px 2px 2px 2px;
+}
+
+.navbar > a {
+    margin-right: 20px;
+}
+
+#container {
+
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+}
+
+.spacing {
+    margin-left: 16px;
+}
+
+#main {
+    padding: 16px;
+}
+
+div {
+    background-color: rgb(191, 191, 191);
+}
+
+
+
+header {
+    background-color: #908e8e;
+
+}
+h1 {
+    color:black;
+    font-weight: bold;
+}
+
